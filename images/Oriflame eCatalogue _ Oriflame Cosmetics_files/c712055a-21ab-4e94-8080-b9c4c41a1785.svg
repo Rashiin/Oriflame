@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="84" height="84" viewBox="0 0 84 84">
+  <defs>
+    <filter id="Rectangle" x="0" y="0" width="84" height="84" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-2" x="3" y="3.5" width="78" height="78.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-2"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-3" x="3" y="3" width="78" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-3"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-4" x="0" y="0" width="84" height="84" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-4"/>
+      <feFlood flood-color="#333" flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <path id="Path_866" data-name="Path 866" d="M0-16H29.88V14.233H0Z" transform="translate(0 16)" fill="#68bb93"/>
+    </clipPath>
+  </defs>
+  <g id="Group_25482" data-name="Group 25482" transform="translate(9.296 4.07)" opacity="0.95">
+    <g id="Group_24288" data-name="Group 24288" transform="translate(-4.797 -0.571)" opacity="0.95">
+      <g id="_02dp" data-name="02dp" transform="translate(0.001 0.001)">
+        <g id="Light_Elevation_02dp" data-name="Light 🌕/Elevation/02dp">
+          <g id="Shadow" style="mix-blend-mode: multiply;isolation: isolate">
+            <g transform="matrix(1, 0, 0, 1, -4.5, -3.5)" filter="url(#Rectangle)">
+              <rect id="Rectangle-5" data-name="Rectangle" width="75" height="75" rx="37.5" transform="translate(4.5 3.5)" fill="#fff"/>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, -4.5, -3.5)" filter="url(#Rectangle-2)">
+              <rect id="Rectangle-6" data-name="Rectangle" width="75" height="75" rx="37.5" transform="translate(4.5 3.5)" fill="#fff"/>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, -4.5, -3.5)" filter="url(#Rectangle-3)">
+              <rect id="Rectangle-7" data-name="Rectangle" width="75" height="75" rx="37.5" transform="translate(4.5 3.5)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -4.5, -3.5)" filter="url(#Rectangle-4)">
+        <rect id="Rectangle-8" data-name="Rectangle" width="75" height="75" rx="37.5" transform="translate(4.5 3.5)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_24884" data-name="Group 24884" transform="translate(18.054 22.104)">
+      <g id="Group_779" data-name="Group 779" clip-path="url(#clip-path)">
+        <g id="Group_778" data-name="Group 778" transform="translate(0.002)">
+          <path id="Path_865" data-name="Path 865" d="M4.364,3.558a5.669,5.669,0,1,1,11.338,0v1.89H4.364Zm19.081,4.62a3.1,3.1,0,0,0-3.02-2.73H17.591V3.558a7.558,7.558,0,1,0-15.117,0v1.89H-.36a3.1,3.1,0,0,0-3.02,2.73L-4.891,23.314a2.634,2.634,0,0,0,.663,2.056,2.625,2.625,0,0,0,1.978.864H22.315a2.627,2.627,0,0,0,2.642-2.919Z" transform="translate(4.905 4)" fill="#68bb93"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

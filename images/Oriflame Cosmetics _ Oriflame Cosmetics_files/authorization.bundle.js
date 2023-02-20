@@ -1,0 +1,2 @@
+(window.onlineWebpackJsonp=window.onlineWebpackJsonp||[]).push([["authorization"],{536:function(module,exports,__webpack_require__){module.exports=__webpack_require__("Vn0O")},Vn0O:function(module,exports){ori.addModule("authorization",{init:function(){},removeLoggedUserCookie:function(){$.removeCookie("OriLoggedUser",{path:"/"})}})}},[[536,"manifest"]]]);
+//# sourceMappingURL=authorization.bundle.js.2314cb4080796bba48cbbeb2adadf825.map

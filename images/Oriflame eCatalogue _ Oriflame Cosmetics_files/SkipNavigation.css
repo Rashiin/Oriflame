@@ -1,0 +1,3 @@
+.ui-skip-navigation{position:absolute;left:-1000px;top:0}.ui-skip-navigation .link{position:absolute;top:0;left:0;white-space:nowrap;padding:5px 15px;z-index:9999;text-align:center;background:var(--common-white);-webkit-transition:left .5s ease-out;transition:left .5s ease-out;border-bottom:1px solid var(--grey-300);border-right:1px solid var(--grey-300)}.ui-skip-navigation .link:active,.ui-skip-navigation .link:focus{left:1000px}
+
+/*# sourceMappingURL=SkipNavigation.css.5b03b22b77f843e0578d2679b7775e11.map*/
